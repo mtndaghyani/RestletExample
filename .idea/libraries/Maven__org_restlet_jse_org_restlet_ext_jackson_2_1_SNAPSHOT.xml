@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.restlet.jse:org.restlet.ext.jackson:2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/restlet/jse/org.restlet.ext.jackson/2.1-SNAPSHOT/org.restlet.ext.jackson-2.1-20111116.140055-8095.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/restlet/jse/org.restlet.ext.jackson/2.1-SNAPSHOT/org.restlet.ext.jackson-2.1-20111116.140055-8095-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/restlet/jse/org.restlet.ext.jackson/2.1-SNAPSHOT/org.restlet.ext.jackson-2.1-20111116.140055-8095-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
