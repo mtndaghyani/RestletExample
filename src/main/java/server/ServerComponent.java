@@ -9,7 +9,7 @@ public class ServerComponent extends Component {
     }
 
     public ServerComponent() {
-        getServers().add(Protocol.HTTP, 8085);
+        getServers().add(Protocol.HTTP, 8080);
         getDefaultHost().attach("/first/", ServerResourceHandler.class);
         getDefaultHost().attach("/second/", SecondServerResourceHandler.class);
         getDefaultHost().attach("/third/", ThirdServerResourceHandler.class);
